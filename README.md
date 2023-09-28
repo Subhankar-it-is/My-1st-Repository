@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subhankar5888
-- 👀 I’m interested in ...Full stack Web Development 
+- 👀 I’m interested in ...Full stack JAVA Development 
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
